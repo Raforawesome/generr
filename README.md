@@ -1,0 +1,1 @@
+Generic error type for Rust crates.
